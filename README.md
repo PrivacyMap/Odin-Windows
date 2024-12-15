@@ -62,6 +62,12 @@ Este repositório é apenas para fins educacionais e de compartilhamento. O soft
 
 ---
 
+## Tradução e Organização
+
+Este repositório foi traduzido e adaptado para o idioma **Português Brasileiro** por [PrivacyMap](https://github.com/PrivacyMap), com o objetivo de facilitar o uso dos alunos dos treinamentos da PrivacyMap no estudo do Android e demais sistemas operacionais além de beneficiar os demais usuários brasileiros. **Todos os direitos e créditos pela criação e desenvolvimento do software original pertencem exclusivamente à Samsung.**
+
+---
+
 ## Licença
 
 O Odin é um software proprietário e não é oficialmente distribuído pela Samsung para o público em geral. Este repositório não possui nenhuma relação oficial com a Samsung.
